@@ -1,6 +1,6 @@
 {
-  "name": "iamadamjowett/angular-click-outside",
-  "version": "2.11.0",
+  "name": "jf/angular-click-outside",
+  "version": "2.11.1",
   "main": "clickoutside.directive.js",
   "author": {
     "name": "Adam Jowett",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:IamAdamJowett/angular-click-outside.git"
+    "url": "git@github.com:f1nch/angular-click-outside.git"
   },
   "bugs": {
-    "url": "https://github.com/IamAdamJowett/angular-click-outside/issues"
+    "url": "https://github.com/f1nch/angular-click-outside/issues"
   },
   "license": "MIT",
   "devDependencies": {
